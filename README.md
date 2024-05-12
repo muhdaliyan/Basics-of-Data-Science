@@ -27,5 +27,5 @@ graph TD;
     Algos-->Classification;
     Regression-->Linear_Regression;
     Regression-->Polynomial_Regression;
-    Regression-->Logistic_Regression;
+    Classification-->Logistic_Regression;
 ```
